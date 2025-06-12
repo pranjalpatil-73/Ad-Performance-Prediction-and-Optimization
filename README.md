@@ -148,6 +148,6 @@ This will provide a recommended ad position based on predicted click-through rat
 
 ## Contact
 
-\[Your Name/Organization Name] - \[Your Email/LinkedIn Profile]
+\[Pranjal Patil] - \[https://www.linkedin.com/in/pranjal-patil07/]
 
-**Project Link:** \[Link to your GitHub repository if applicable]
+**Project Link:** \[(https://github.com/pranjalpatil-73/Ad-Performance-Prediction-and-Optimization)]
