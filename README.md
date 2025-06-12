@@ -146,10 +146,6 @@ This will provide a recommended ad position based on predicted click-through rat
 * **Interactive Dashboards:** Create interactive dashboards (e.g., using Dash or Streamlit) to visualize recommendations and model insights.
 * **More Features:** Incorporate external data sources (e.g., economic indicators, seasonal trends) to enrich the dataset.
 
-## License
-
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
-
 ## Contact
 
 \[Your Name/Organization Name] - \[Your Email/LinkedIn Profile]
